@@ -1,0 +1,8 @@
+- Refactor into clean code
+- Unit Tests
+- Setup proper application window
+- Calc num images shown based on screen size
+- 'Back' Button
+- Menu
+- Export image
+- Jump to running time
